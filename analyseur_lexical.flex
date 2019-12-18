@@ -2,6 +2,7 @@
 #include<stdlib.h>
 #include <stdio.h>
 #include "analyseur_syntaxique.tab.h"
+/*mini compilateur c */
 %}
 %option yylineno
 
